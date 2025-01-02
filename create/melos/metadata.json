@@ -5,12 +5,14 @@
     {
       "key": "projectName",
       "prompt": "Enter your project name:",
-      "default": "my_melos_app"
+      "default": "my_melos_app",
+      "reCase": true
     },
     {
       "key": "projectRepository",
       "prompt": "Enter the repository project:",
-      "default": ""
+      "default": "",
+      "reCase": true
     }
   ]
 }

@@ -5,12 +5,14 @@
     {
       "key": "projectName",
       "prompt": "Enter your project name:",
-      "default": "my_package"
+      "default": "my_package",
+      "reCase": true
     },
     {
       "key": "projectDescription",
-      "prompt": "Enter the repository project:",
-      "default": ""
+      "prompt": "Enter the project description:",
+      "default": "",
+      "reCase": false
     }
   ]
 }
