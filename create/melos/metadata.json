@@ -1,0 +1,16 @@
+{
+  "name": "Melos App Template",
+  "description": "A starter template for Melos app structure.",
+  "variables": [
+    {
+      "key": "projectName",
+      "prompt": "Enter your project name:",
+      "default": "my_melos_app"
+    },
+    {
+      "key": "projectRepository",
+      "prompt": "Enter the repository project:",
+      "default": ""
+    }
+  ]
+}

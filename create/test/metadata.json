@@ -1,0 +1,21 @@
+{
+  "name": "Test App Template",
+  "description": "A starter template to test m-cli.",
+  "variables": [
+    {
+      "key": "projectName",
+      "prompt": "Enter your project name:",
+      "default": "my_flutter_app"
+    },
+    {
+      "key": "featureName",
+      "prompt": "Enter the sample feature name:",
+      "default": "MyFeature"
+    },
+    {
+      "key": "sampleReplace",
+      "prompt": "Enter the sampleReplace name:",
+      "default": "sampleReplace"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+${sampleReplace},
+${SampleReplace},
+${sample_replace},
+${SAMPLE_REPLACE},
+${sample-replace},
+${sample.replace},
+${sample/replace},
+${Sample Replace},
+${Sample-Replace},
+${samplereplace},
+${SAMPLEREPLACE},
+${Sample replace}

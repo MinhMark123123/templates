@@ -1,0 +1,16 @@
+{
+  "name": "Package Template",
+  "description": "A starter template for package.",
+  "variables": [
+    {
+      "key": "projectName",
+      "prompt": "Enter your project name:",
+      "default": "my_package"
+    },
+    {
+      "key": "projectDescription",
+      "prompt": "Enter the repository project:",
+      "default": ""
+    }
+  ]
+}
